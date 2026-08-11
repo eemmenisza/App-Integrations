@@ -43,7 +43,7 @@ Measured Aug 2026 on operator PC (NTFS):
 ## Move vs stay
 
 **Move to Icom/Hadefield OpenStack:** OpenClaw Gateway, app API/workers holding personal data, object backups of in-scope datasets, optional CI runners.  
-**Stay (initially):** UniFi/IoT, Synology shares, solar, Supabase SaaS (confirm POPIA operator agreement), Cursor/Claude/Lovable clients, G:→rsync knowledge path, GitHub SoT, local **D:/E:/F:** staging & DR landing.
+**Stay (initially):** UniFi/IoT, Synology shares, solar, Supabase SaaS (confirm POPIA operator agreement), Cursor/Claude/Lovable/Monday CRM clients, G:→rsync knowledge path, GitHub SoT (+ Cursor integrate), local **D:/E:/F:** staging & DR landing.
 
 ## Owner Decision Queue
 

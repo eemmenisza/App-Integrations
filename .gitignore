@@ -1,0 +1,6 @@
+# Local OpenClaw / agent runtime (do not commit)
+openclaw-workspace-state.json
+
+# CRM snapshots contain POPIA personal information
+data/crm/snapshots/
+data/crm/**/*.raw
