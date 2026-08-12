@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "integration": "qaas-parties-crm-people-pool-monday",
+  "pulled_at": null,
+  "day": null,
+  "boards": {
+    "parties": null,
+    "people_pool": null
+  },
+  "qaas_export": null,
+  "notes": "Placeholder until first successful sync-qaas-monday.mjs run. Snapshots are gitignored."
+}
