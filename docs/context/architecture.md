@@ -2,6 +2,9 @@
 
 GitHub (`eemmenisza/App-Integrations`) is the **source of truth** for application and context docs. [STATED]
 
+**Architect Module (plans):** `docs/context/architect-module.md` — streams A–H, waves W0–W4.  
+**QaaS + NVIDIA:** `docs/context/architect-qaas-nvidia.md` — sections H1–H6 (Nemotron/NIM).
+
 ## System map
 
 ```
